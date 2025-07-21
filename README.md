@@ -15,18 +15,19 @@ I’m a third-year international student from Vietnam, currently pursuing a B.S.
 ## 📁 Projects
 
 📓 **Coursework**: 
-- 📌 Coursework projects available upon request.
-
+- 📌 Coursework projects can be shared upon request for further review.
+  
 ### 🔹 Game of Life (Java)
 - An interactive simulation of Conway’s Game of Life, showcasing how simple rules can produce complex behavior in a grid-based cellular automaton.  
-📎 [View project on GitHub](https://github.com/AnnieLe0907/coursework-game_of_life.git)
 
 ### 🔹Window Manager (Java)
 - A simple and limited traditional window manager.
-📎 [View project on GitHub](https://github.com/AnnieLe0907/coursework-window_manager.git)
 
-### 🔹 Good Trees, Bad Programmers  (Java)
+### 🔹 Good Trees, Bad Programmers (Java)
+- JUnit Testing of code implementation (Heap and Binary Search Tree)
 
+### 🔹 Social Networking  (Java)
+-  A social network simulation in Java by implementing key graph algorithms and data structure methods.
 ---
 
 ## 📚 Education
