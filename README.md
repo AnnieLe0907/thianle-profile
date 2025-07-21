@@ -29,12 +29,12 @@ _2024–2027 (Expected)_
 **Millersville University of Pennsylvania** – B.S. in Computer Science (Transfer Year)  
 _2023–2024_  
 📌 GPA: 3.96 / 4.0 
-Completed some foundational CS courses prior to transferring to GMU 
+_Completed some foundational CS courses prior to transferring to GMU_    
 
 **Ho Chi Minh City University of Law** – B.A. in English Language (Legal English) (Transferred)  
 _2021–2023_  
 📌 GPA: 3.59 / 4.0 
-_Studied core courses in legal English, civil law, and academic writing before transferring to pursue Computer Science in the U.S._ 
+_Studied core courses in legal English, civil law, and academic writing before transferring to pursue Computer Science in the U.S._   
 
 ---
 
