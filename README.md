@@ -41,9 +41,9 @@ _Studied core courses in legal English, civil law, and academic writing before t
 ## 📫 Contact
 
 - 📧 [Email] thianhongan2003@gmail.com  
-- 🌐 [GitHub Profile](https://github.com/yourusername)  
+- 🌐 [GitHub Profile](https://github.com/AnnieLe0907))  
 - 📝 [Transcript] <br>
-  **Millersville University of Pennsylvania:** _Official transcript_ (https://drive.google.com/file/d/163H0CXw6SV0faU9CxQ9I76nWBQbgK4Cx/view?usp=sharing) <br>
+  **Millersville University of Pennsylvania:** _Official transcript_(https://drive.google.com/file/d/163H0CXw6SV0faU9CxQ9I76nWBQbgK4Cx/view?usp=sharing) <br>
   **George Mason University:** _Unofficial transcript_ (https://drive.google.com/file/d/1cmRRC-xDTUCLeB-JyrYGxywGfoD6LFB7/view?usp=sharing) <br>
   **Ho Chi Minh City University of Law:** _Evaluated transcript_ (https://drive.google.com/file/d/1xO_YT4o4lhXh9OVBpKn6qBttnb0Kjd1c/view?usp=sharing)
   
