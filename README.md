@@ -5,7 +5,7 @@ I’m a third-year international student from Vietnam, currently pursuing a B.S.
 ---
 
 ## 🛠 Skills
-:notebook: 
+
 - **Languages**: Java, Python (beginner), JavaScript (beginner), HTML/CSS (markup language)
 - **Tools & Platforms**: GitHub, VSCode, Eclipse
 - **Coursework**: Intro to Computer Programming, Object-Oriented Programming, Data Structures, Calculus III, Formal Methods and Models, Discrete Mathematics
@@ -14,9 +14,18 @@ I’m a third-year international student from Vietnam, currently pursuing a B.S.
 
 ## 📁 Projects
 
+📓 **Coursework**: 
+- 📌 Coursework projects available upon request.
+
 ### 🔹 Game of Life (Java)
-A priority queue implementation using a binary heap. Includes unit tests and mutation testing using PIT.  
-📎 [View project on GitHub](https://github.com/yourusername/priority-queue)
+- An interactive simulation of Conway’s Game of Life, showcasing how simple rules can produce complex behavior in a grid-based cellular automaton.  
+📎 [View project on GitHub](https://github.com/AnnieLe0907/coursework-game_of_life.git)
+
+### 🔹Window Manager (Java)
+- A simple and limited traditional window manager.
+📎 [View project on GitHub](https://github.com/AnnieLe0907/coursework-window_manager.git)
+
+### 🔹 Good Trees, Bad Programmers  (Java)
 
 ---
 
