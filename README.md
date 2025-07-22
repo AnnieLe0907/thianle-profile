@@ -6,13 +6,13 @@ I’m a third-year international student from Vietnam, currently pursuing a B.S.
 
 ## 🛠 Skills
 
-- **Languages**: Java, Python (beginner), JavaScript (beginner), HTML/CSS (markup language)
-- **Tools & Platforms**: GitHub, VSCode, Eclipse
+- **Languages**: Java, Python (beginner), JavaScript (beginner), HTML/CSS (Markup language)
+- **Tools & Platforms**: GitHub, VSCode, Eclipse, Figma, Canva
 - **Coursework**: Intro to Computer Programming, Object-Oriented Programming, Data Structures, Calculus III, Formal Methods and Models, Discrete Mathematics
 
 ---
 
-## 📁 Projects
+## 📁 Projects and Coursework
 
 📓 **Coursework**: 
 - 📌 Coursework projects can be shared upon request for further review.
@@ -28,6 +28,7 @@ I’m a third-year international student from Vietnam, currently pursuing a B.S.
 
 ### 🔹 Social Networking  (Java)
 -  A social network simulation in Java by implementing key graph algorithms and data structure methods.
+  
 ---
 
 ## 📚 Education
@@ -44,7 +45,7 @@ _Completed some foundational CS courses prior to transferring to GMU_
 **Ho Chi Minh City University of Law** – B.A. in English Language (Legal English) (Transferred)  
 _2021–2023_  
 📌 GPA: 3.59 / 4.0 <br>  
-_Studied core courses in legal English, civil law, and academic writing before transferring to pursue Computer Science in the U.S._ 
+_Studied some core courses in legal English, civil law, and academic writing before transferring to pursue Computer Science in the U.S._ 
 
 ---
 
