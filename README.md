@@ -64,5 +64,5 @@ _Studied some core courses in legal English, civil law, and academic writing bef
 
 ---
 
-_Thanks for visiting my profile! Feel free to check out my projects or reach out if you're interested in working together._
+_Thanks for visiting my profile! Feel free to reach out if you're interested in working together._
 
