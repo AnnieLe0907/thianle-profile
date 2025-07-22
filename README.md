@@ -45,7 +45,7 @@ _Completed some foundational CS courses prior to transferring to GMU_
 
 **Ho Chi Minh City University of Law** – B.A. in English Language (Legal English) (Transferred)  
 _2021–2023_  
-📌 GPA: 3.59 / 4.0 <br>  
+📌 GPA: 3.59 / 4.0 <br>
 _Studied some core courses in legal English, civil law, and academic writing before transferring to pursue Computer Science in the U.S._ 
 
 
