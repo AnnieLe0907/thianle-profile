@@ -7,7 +7,7 @@ I’m a third-year international student from Vietnam, currently pursuing a B.S.
 ## 🛠 Skills
 
 - **Languages**: Java, Python (beginner), JavaScript (beginner), HTML/CSS (Markup language)
-- **Tools & Platforms**: GitHub, VSCode, Eclipse, Figma, Canva
+- **Tools & Platforms**: VSCode, Eclipse, Figma, Canva
 - **Coursework**: Intro to Computer Programming, Object-Oriented Programming, Data Structures, Calculus III, Formal Methods and Models, Discrete Mathematics
 
 ---
